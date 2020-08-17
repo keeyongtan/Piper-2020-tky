@@ -1,0 +1,6 @@
+---
+applications:
+  - name: test-app-keeyong
+    memory: 256M
+    instances: 1
+    random-route: true
