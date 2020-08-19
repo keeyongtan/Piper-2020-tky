@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = "YourDockerHubID/YourRepoName"
+    registry = "keeyongtan/photo-album"
     registryCredential = 'dockerhub'
   }  
   agent any
